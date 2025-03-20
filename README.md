@@ -1,2 +1,2 @@
-# plp-python-week1-assignmen
+# plp-python-week1-assignment
 Plp week 1 Python assignment
